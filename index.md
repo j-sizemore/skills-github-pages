@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: Welcome to my page
 ---
-
+This is a sample page to learn GitHub Pages from GitHub skills.
