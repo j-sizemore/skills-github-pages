@@ -1,4 +1,4 @@
-theme: minima
+remote_theme: francescobianco/jekyll-html-pages@main
 title: "my-page"
 author: j-sizemore
 description: sample page created for GitHub skills course
